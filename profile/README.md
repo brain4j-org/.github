@@ -4,4 +4,4 @@ brain4j-org is the home of Brain4J, an open-source machine learning framework de
 ## 🛠️ Our Mission
 To create intelligent, open-source, and scalable solutions for the Java ecosystem.
 
-Check out [Brain4J](https://github.com/brian4j-org/brain4j) now!
+Check out [Brain4J](https://github.com/brain4j-org/brain4j) now!
